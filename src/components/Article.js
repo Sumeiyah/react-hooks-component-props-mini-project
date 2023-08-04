@@ -7,3 +7,5 @@ export default function Article({ title, date = "January 1, 1970", preview, minu
             <small>{date} • {minutes} min read</small>
             <p>{preview}</p>
         </article>
+    )
+}
