@@ -7,3 +7,4 @@ export default function ArticleList({ posts }) {
         </main>
     )
 }
+
